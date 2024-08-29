@@ -48,3 +48,11 @@ Para ejecutar el proyecto, utiliza el siguiente comando:
 
 ```bash
 dart run
+```
+
+## Resultados en consola
+![image](https://github.com/user-attachments/assets/b7171382-5781-48fb-ba29-647cb8a4af62)
+![image](https://github.com/user-attachments/assets/037e1b0f-f513-478b-b4d8-7d69b2610894)
+
+
+
