@@ -27,13 +27,13 @@ Este proyecto realiza las siguientes acciones:
 1. Clona el repositorio:
 
     ```bash
-    git clone https://github.com/tu_usuario/tu_repositorio.git
+    git clone https://github.com/jestebanv30/api-dart-users.git
     ```
 
 2. Navega al directorio del proyecto:
 
     ```bash
-    cd tu_repositorio
+    cd api-dart-users
     ```
 
 3. Instala las dependencias:
